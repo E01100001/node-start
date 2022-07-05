@@ -1,2 +1,4 @@
-var name = "Bright Heart"
-console.log("Hello " + name +". How may I help you?" )
+var gf = require('girlfriend');
+
+gf.kissMe();
+gf.love();
